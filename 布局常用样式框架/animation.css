@@ -1,7 +1,7 @@
 /* animation */
 /* 淡入 */
 .a-fadein{-webkit-animation-name:fadein;-moz-animation-name:fadein;-ms-animation-name:fadein;animation-name:fadein;}
-/* define */
+/* define  */
 /* 淡入 */
 @-webkit-keyframes fadein{
     0%{opacity:0;}
